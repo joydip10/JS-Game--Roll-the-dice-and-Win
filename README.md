@@ -1,4 +1,5 @@
 ﻿# JS-Game--Roll-the-dice-and-Win
+ # Play the game here- https://joydip10.github.io/JS-Game--Roll-the-dice-and-Win/
  
  ### (1) Its a two player game
  ### (2) Light Pink background of a player means- he is active and he is rolling.
